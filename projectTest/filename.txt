@@ -1,0 +1,7 @@
+id=1,postId=1,name=thor,action=post,content=Hello everyone
+id=6,postId=1,name=thor,action=like
+id=7,postId=1,name=Zera,action=comment,content=This is content
+id=6,postId=1,name=thor,action=like
+id=9,postId=1,name=Linh,action=comment,content=Hi
+id=10,postId=2,name=Linh,action=post,content=Post second
+id=12,postId=2,name=Linh,action=comment,content=Hi
